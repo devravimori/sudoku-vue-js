@@ -1,6 +1,12 @@
-# pakege.json
+# Sudoku Game made in Vue JS
 
-This template should help get you started developing with Vue 3 in Vite.
+This is simple Sudoku game developed using `Vue 3` in Vite, it contains 3 buttons `change`, `show/hide solution`, `check`.
+
+`show solution` and `hide solution` button can be used to show or hide solution of current game.
+
+On click of `change` button you can change the sudoku grid completely, it will reset it to new game.
+
+After finsihing whole grid the app will give result when you click on `check`, it will also highlight the mistakes with light red color when you have entered wrong numbers or entered it on wrong place.
 
 ## Recommended IDE Setup
 
@@ -27,3 +33,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Screenshots
+
+![sudoku](https://user-images.githubusercontent.com/96901635/194568054-0e161ab6-3ea6-43d1-8b04-73a3b94a8399.png)
+![image](https://user-images.githubusercontent.com/96901635/194569147-93dc7337-4f1d-4a11-8819-0c290e9ac02d.png)
+
