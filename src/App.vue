@@ -268,7 +268,10 @@ const selectAllText = (e) => {
           class="mt-2 flex justify-between"
           style="width: calc(4rem + 2.5rem * 9)"
         ></div>
+        
+        <div class="mt-5 font-semibold">Made with 💖 by <a href="https://optimumitapps.com/" class="text-[#00dc82]">Optimumitapps</a></div>
       </div>
+      
     </div>
   </div>
 </template>
